@@ -1,0 +1,12 @@
+Catalogue of plates taken on the United Kingdom Schmidt Telescope
+http://www.roe.ac.uk/~nch/catlog_ukstu.lis
+-31.2768056 149.06611 1.1645
+Catalogue of plates taken on the Palomar Oschin 48 inch Schmidt Telescope (post-1985 for the second Palomar Sky Survey)
+http://www.roe.ac.uk/~nch/catlog_possII.lis
+50.9833333 -116.85 1.712
+Catalogue of plates taken on the Palomar Oschin 48 inch Schmidt Telescope for the first Palomar Sky Survey
+http://www.roe.ac.uk/~nch/possI.lis
+50.9833333 -116.85 1.712
+Catalogue of plates taken on the European Southern Observatory 48 inch Schmidt Telescope
+http://www.roe.ac.uk/~nch/catlog_eso.lis
+-29.25 -70.7333333 2.375
