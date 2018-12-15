@@ -41,6 +41,8 @@ class FileHandler(object):
             os.mkdir("Fits Files")
         if os.path.isdir("Fits Images") == False:
             os.mkdir("Fits Images")
+        if os.path.isdir("Excel Files") == False:
+            os.mkdir("Excel Files")
         self.save_file_dir = Path("Exports/Plate Saves")
         self.save_fits_file = Path("Exports/Fits Files")
         self.save_fits_images = Path("Exports/Fits Images")
